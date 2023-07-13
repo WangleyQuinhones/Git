@@ -1,5 +1,6 @@
 # Git #GitHub
 Primeiro repositório no git!
 
-Repositório criando durante uma aula ao vivo!
+
+Repositório criado durante uma aula ao vivo!
 
