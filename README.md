@@ -1,2 +1,5 @@
-# Git
-Primeiro repositório no git
+# Git #GitHub
+Primeiro repositório no git!
+
+Repositório criando durante uma aula ao vivo!
+
